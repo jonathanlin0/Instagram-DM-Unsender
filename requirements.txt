@@ -1,0 +1,5 @@
+pyautogui
+keyboard
+win32api
+win32con
+python_imagesearch
